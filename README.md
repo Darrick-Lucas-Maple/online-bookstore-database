@@ -1,27 +1,35 @@
 # online-bookstore-database
+
+# What is it?
 A group final project from Intro Database System course in which we had to implement a database structure in mySQL and to interact with it through a Java program.
 
-# Abstract
-Our database is created for our online bookstore to store
-the following:
-- Book
-- Publisher
-- Author
-- Stock
-- Warehouse
-- Order
-- Shopping Cart
-- Customer
+# What Does It Do?
+Using a Java program when executed it opens a command line that the user can view, input, and execute to the MySQL database. The following statements can be perfomred:
+- Add Customer
+- Add Author
+- Add Publisher
+- Add Shopping Cart
+- Delete Author
+- Delete Publisher
+- Delete Shopping Cart
+- View Author
+- View Customer
+- View Order
+- View Publisher
+- View Shopping Cart
 
-With these records stored we can see who the publisher and author of
-the book is, check the number of books currently in the warehouse, and allow
-customers to order books. Given the structure of our database we believe that
-this can also be used in similar scenarios where an online bookstore database is
-needed.
+# The Purpose of This Project
+The purpose of this project is to learn and understand how a database can store information. As well as have a hands on experience with pre-planning and using tools that are used when creating a database connection. 
 
-# Tools Used
+# Technologies Used
 - E-R Diagram 
 - Schema 
 - Java
 - Netbeans
 - JDBC
+
+# Current Stage of Project
+Completed
+
+# Known Issues
+None
